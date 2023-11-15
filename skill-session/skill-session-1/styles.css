@@ -1,0 +1,14 @@
+.flex1 {
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 30px;
+}
+
+.flex1 p {
+    font-weight: 800;
+}
+
+.paragraph {
+    max-width: 40%;
+}
